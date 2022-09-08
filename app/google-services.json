@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272982824490",
+    "project_id": "fir-demo-8fcd0",
+    "storage_bucket": "fir-demo-8fcd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272982824490:android:d73badc96ca78cf322d553",
+        "android_client_info": {
+          "package_name": "com.example.myledapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272982824490-8ra7vg581lr3js9796t9t989pm979pok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Gpp-ioq650VxPkbZP7-olwT6c2UpZ0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272982824490-8ra7vg581lr3js9796t9t989pm979pok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
